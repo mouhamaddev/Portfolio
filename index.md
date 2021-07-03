@@ -1,7 +1,7 @@
 ## Python Programmer
 
 
-Experienced Python developer with extensive Data science experience looking to continue to develop my skill set on artificial intelligence and machine learning.
+Experienced Python developer with extensive Data science experience looking to continue to develop my skill set on artificial intelligence and machine learning. I've built projects on small teams and I'm looking for a role where I can grow and continue to learn from other experienced team members.
 
 ---
 ## Projects :
