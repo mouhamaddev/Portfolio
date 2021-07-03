@@ -37,5 +37,3 @@
 
 <!-- Remove above link if you don't want to attibute -->
 
-github:
-is\_project\_page:false
