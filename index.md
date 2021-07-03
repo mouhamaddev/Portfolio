@@ -1,5 +1,8 @@
 ## Python Programmer
 
+
+Experienced Python developer with extensive Data science experience looking to continue to develop my skill set on artificial intelligence and machine learning.
+
 ---
 ## Projects :
 
