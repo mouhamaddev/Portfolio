@@ -8,7 +8,7 @@ Experienced Python developer with extensive Data science experience looking to c
 
 <br>
 
-Cryptocurrency Analysis
+##Cryptocurrency Analysis
 
 How do Bitcoin markets behave? What are the causes of the sudden spikes and dips in cryptocurrency values? The goal of this project is to  analyze, and visualize data on different cryptocurrencies. Source code : https://github.com/Mohamad-Masri/python-crypto-analyser
 
