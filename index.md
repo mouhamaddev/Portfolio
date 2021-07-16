@@ -33,25 +33,22 @@ Source code : <a href="https://github.com/Mohamad-Masri/Steganography">https://g
 <img src="images/projects/steg.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+**I WANT A BURGER**
 
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Your goal here is to protect your life from mad vegetables and stay alive as long as possible until you got through the kitchen. Every door in this house has a specific puzzle that you have to solve it. Now you have to get through this room and the next rooms. Your task here is to eat the burgers in the kitchen. As the time goes by, the difficulty level becomes harder and more puzzles waiting you over 15-40 minutes of playtime.
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br><br>Language used : C#, Engine : Unity3D<br><br>
+Play the game : <a href="https://mohamad-16.itch.io/i-want-a-burger">https://mohamad-16.itch.io/i-want-a-burger</a> 
 
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/projects/iwab.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+**VR Fishing**
 
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br><br>Language used : C#, Engine : Unity3D<br><br>
+Play the game : <a href="https://mohamad-16.itch.io/i-want-a-burger">https://mohamad-16.itch.io/i-want-a-burger</a> 
+
+<img src="images/projects/vr.jpeg?raw=true"/>
 
 ---
 
