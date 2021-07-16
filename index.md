@@ -15,8 +15,11 @@ How do Bitcoin markets behave? What are the causes of the sudden spikes and dips
 <img src="images/projects/crypto.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+*Cryptocurrency Analysis*
+
+Reddit is a network of communities based on people’s interests. A Reddit bot is something that automatically responds to a user’s post or automatically posts things at certain intervals. This bot will print the info of a post containing specific keywords and post a comment on it. Source code : <a href="https://github.com/Mohamad-Masri/reddit-bot">https://github.com/Mohamad-Masri/reddit-bot</a> 
+
+<img src="images/projects/reddit.jpeg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
