@@ -8,26 +8,26 @@ Experienced Python developer with extensive Data science experience looking to c
 
 <br>
 
-*Cryptocurrency Analysis*
+**Cryptocurrency Analysis**
 
 How do Bitcoin markets behave? What are the causes of the sudden spikes and dips in cryptocurrency values? The goal of this project is to  analyze, and visualize data on different cryptocurrencies.
-<br>Language used : Python<br>
+<br><br>Language used : Python<br><br>
 Source code : <a href="https://github.com/Mohamad-Masri/python-crypto-analyser">https://github.com/Mohamad-Masri/python-crypto-analyser</a>
 
 <img src="images/projects/crypto.png?raw=true"/>
 
 ---
-*Reddit Bot*
+**Reddit Bot**
 
 Reddit is a network of communities based on people’s interests. A Reddit bot is something that automatically responds to a user’s post or automatically posts things at certain intervals. This bot will print the info of a post containing specific keywords and post a comment on it.
-<br>Language used : Python<br> Source code : <a href="https://github.com/Mohamad-Masri/reddit-bot">https://github.com/Mohamad-Masri/reddit-bot</a> 
+<br><br>Language used : Python<br><br> Source code : <a href="https://github.com/Mohamad-Masri/reddit-bot">https://github.com/Mohamad-Masri/reddit-bot</a> 
 
 <img src="images/projects/reddit.jpeg?raw=true"/>
 
 ---
-*Steganography*
+**Steganography**
 
-Steganography is simply practice of hiding secret messages within or over something that is no secret. It is just a process of embedding a secret piece of text within a text, picture, or audio. This project encode image inside another image using PIL library.<br>Language used : Python<br>
+Steganography is simply practice of hiding secret messages within or over something that is no secret. It is just a process of embedding a secret piece of text within a text, picture, or audio. This project encode image inside another image using PIL library.<br><br>Language used : Python<br><br>
 Source code : <a href="https://github.com/Mohamad-Masri/Steganography">https://github.com/Mohamad-Masri/Steganography</a> 
 
 <img src="images/projects/steg.jpg?raw=true"/>
