@@ -8,10 +8,11 @@ Experienced Python developer with extensive Data science experience looking to c
 
 <br>
 
-### Category Name 1 
+Cryptocurrency Analysis
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+How do Bitcoin markets behave? What are the causes of the sudden spikes and dips in cryptocurrency values? The goal of this project is to  analyze, and visualize data on different cryptocurrencies. Source code : https://github.com/Mohamad-Masri/python-crypto-analyser
+
+<img src="images/projects/crypto.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
