@@ -62,143 +62,153 @@ Source code : <a href="https://github.com/Mohamad-Masri/Steganography">https://g
 
 ---
 
-**VR Fishing**
+**Finger Counter**
 
-VR Fishing game made with Unity3D for OpenVr (supports all vr devices).
-<br><br>Language used : C#, Engine : Unity3D<br><br>
+Don't know how many finges you have? Use this program to count them! It first look into hand tracking and then use the hand landmarks to count of the fingers.
+<br><br>Language used : python<br><br>
 Check the project : <a href="https://mohamad-16.itch.io/vr-fishing">https://mohamad-16.itch.io/vr-fishing</a> 
 
-<img src="images/projects/vr.jpeg?raw=true"/>
+<img src="images/projects/finger.jpg?raw=true"/>
 
 ---
 
-**VR Fishing**
+**Angle Finder**
 
-VR Fishing game made with Unity3D for OpenVr (supports all vr devices).
-<br><br>Language used : C#, Engine : Unity3D<br><br>
+This program will find you any angle if you dont have an angle measurement tool.
+<br><br>Language used : Python<br><br>
 Check the project : <a href="https://mohamad-16.itch.io/vr-fishing">https://mohamad-16.itch.io/vr-fishing</a> 
 
-<img src="images/projects/vr.jpeg?raw=true"/>
+<img src="images/projects/angle.png?raw=true"/>
 
 ---
 
-**VR Fishing**
+**Document Scanner**
 
-VR Fishing game made with Unity3D for OpenVr (supports all vr devices).
-<br><br>Language used : C#, Engine : Unity3D<br><br>
+Simple document scanner to scan your document.
+<br><br>Language used : Python<br><br>
 Check the project : <a href="https://mohamad-16.itch.io/vr-fishing">https://mohamad-16.itch.io/vr-fishing</a> 
 
-<img src="images/projects/vr.jpeg?raw=true"/>
+<img src="images/projects/scan.jpg?raw=true"/>
 
 ---
 
-**VR Fishing**
+**Age Prediction**
 
-VR Fishing game made with Unity3D for OpenVr (supports all vr devices).
-<br><br>Language used : C#, Engine : Unity3D<br><br>
+Don't know your age? This app will tell you. You're welcome!
+<br><br>Language used : Python<br><br>
 Check the project : <a href="https://mohamad-16.itch.io/vr-fishing">https://mohamad-16.itch.io/vr-fishing</a> 
 
-<img src="images/projects/vr.jpeg?raw=true"/>
+<img src="images/projects/age.png?raw=true"/>
 
 ---
 
-**VR Fishing**
+**Hand Tracking Module**
 
-VR Fishing game made with Unity3D for OpenVr (supports all vr devices).
-<br><br>Language used : C#, Engine : Unity3D<br><br>
+Simple hand tracking module.
+<br><br>Language used : Python<br><br>
 Check the project : <a href="https://mohamad-16.itch.io/vr-fishing">https://mohamad-16.itch.io/vr-fishing</a> 
 
-<img src="images/projects/vr.jpeg?raw=true"/>
+<img src="images/projects/hand.jpg?raw=true"/>
 
 ---
 
-**VR Fishing**
+**Object Size Measurement**
 
-VR Fishing game made with Unity3D for OpenVr (supports all vr devices).
-<br><br>Language used : C#, Engine : Unity3D<br><br>
+Forgot your measurement tool again?
+<br><br>Language used : Python<br><br>
 Check the project : <a href="https://mohamad-16.itch.io/vr-fishing">https://mohamad-16.itch.io/vr-fishing</a> 
 
-<img src="images/projects/vr.jpeg?raw=true"/>
+<img src="images/projects/size.jpg?raw=true"/>
 
 ---
 
-**VR Fishing**
+**Text Detection**
 
-VR Fishing game made with Unity3D for OpenVr (supports all vr devices).
-<br><br>Language used : C#, Engine : Unity3D<br><br>
+Text detection program.
+<br><br>Language used : Python<br><br>
 Check the project : <a href="https://mohamad-16.itch.io/vr-fishing">https://mohamad-16.itch.io/vr-fishing</a> 
 
-<img src="images/projects/vr.jpeg?raw=true"/>
+<img src="images/projects/stop-sign.jpg?raw=true"/>
 
 ---
 
-**VR Fishing**
+**468 Face Landmarks**
 
-VR Fishing game made with Unity3D for OpenVr (supports all vr devices).
-<br><br>Language used : C#, Engine : Unity3D<br><br>
+This project detect 468 different landmarks on faces using the model provided by google that runs in real-time on CPU and mobile devices.
+<br><br>Language used : Python<br><br>
 Check the project : <a href="https://mohamad-16.itch.io/vr-fishing">https://mohamad-16.itch.io/vr-fishing</a> 
 
-<img src="images/projects/vr.jpeg?raw=true"/>
+<img src="images/projects/me.png?raw=true"/>
 
 ---
 
-**VR Fishing**
+**Is Your Teeth Healty?**
 
-VR Fishing game made with Unity3D for OpenVr (supports all vr devices).
-<br><br>Language used : C#, Engine : Unity3D<br><br>
+Tired of visiting the doctor every month to check on your teeth? This app will check how healty is your teeth!
+<br><br>Language used : Python<br><br>
 Check the project : <a href="https://mohamad-16.itch.io/vr-fishing">https://mohamad-16.itch.io/vr-fishing</a> 
 
-<img src="images/projects/vr.jpeg?raw=true"/>
+<img src="images/projects/teeth.jpg?raw=true"/>
 
 ---
 
-**VR Fishing**
+**Shutdown With Voice**
 
-VR Fishing game made with Unity3D for OpenVr (supports all vr devices).
-<br><br>Language used : C#, Engine : Unity3D<br><br>
+Are you still shutting down your pc with keyboard? Duh!
+<br><br>Language used : Python<br><br>
 Check the project : <a href="https://mohamad-16.itch.io/vr-fishing">https://mohamad-16.itch.io/vr-fishing</a> 
 
-<img src="images/projects/vr.jpeg?raw=true"/>
+<img src="images/projects/shutdown.png?raw=true"/>
 
 ---
 
-**VR Fishing**
+**Sudoku Solver**
 
-VR Fishing game made with Unity3D for OpenVr (supports all vr devices).
-<br><br>Language used : C#, Engine : Unity3D<br><br>
+Still don't know how to solve Sudoku? try this program
+<br><br>Language used : Python<br><br>
 Check the project : <a href="https://mohamad-16.itch.io/vr-fishing">https://mohamad-16.itch.io/vr-fishing</a> 
 
-<img src="images/projects/vr.jpeg?raw=true"/>
+<img src="images/projects/sudoku.jpg?raw=true"/>
 
 ---
 
-**VR Fishing**
+**Otp**
 
-VR Fishing game made with Unity3D for OpenVr (supports all vr devices).
-<br><br>Language used : C#, Engine : Unity3D<br><br>
+OTP sender.
+<br><br>Language used : Python<br><br>
 Check the project : <a href="https://mohamad-16.itch.io/vr-fishing">https://mohamad-16.itch.io/vr-fishing</a> 
 
-<img src="images/projects/vr.jpeg?raw=true"/>
+<img src="images/projects/otp.png?raw=true"/>
 
 ---
 
-**VR Fishing**
+**Email sender**
 
-VR Fishing game made with Unity3D for OpenVr (supports all vr devices).
-<br><br>Language used : C#, Engine : Unity3D<br><br>
+Simple Email sender.
+<br><br>Language used : Python<br><br>
 Check the project : <a href="https://mohamad-16.itch.io/vr-fishing">https://mohamad-16.itch.io/vr-fishing</a> 
 
-<img src="images/projects/vr.jpeg?raw=true"/>
+<img src="images/projects/email.png?raw=true"/>
 
 ---
 
-**VR Fishing**
+**Age Calculator version -0.1**
 
-VR Fishing game made with Unity3D for OpenVr (supports all vr devices).
-<br><br>Language used : C#, Engine : Unity3D<br><br>
+Dont have webcam to use age predictor (project in the above)? use this
+<br><br>Language used : Python<br><br>
 Check the project : <a href="https://mohamad-16.itch.io/vr-fishing">https://mohamad-16.itch.io/vr-fishing</a> 
 
-<img src="images/projects/vr.jpeg?raw=true"/>
+<img src="images/projects/age.jpeg?raw=true"/>
+
+---
+
+**Your Calendar**
+
+Just a calendar
+<br><br>Language used : Python<br><br>
+Check the project : <a href="https://mohamad-16.itch.io/vr-fishing">https://mohamad-16.itch.io/vr-fishing</a> 
+
+<img src="images/projects/calendar.jpg?raw=true"/>
 
 ---
 
