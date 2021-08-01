@@ -52,13 +52,13 @@ Check the project : <a href="https://mohamad-16.itch.io/vr-fishing">https://moha
 
 ---
 
-**VR Fishing**
+**Covid-19 Tracker**
 
-VR Fishing game made with Unity3D for OpenVr (supports all vr devices).
-<br><br>Language used : C#, Engine : Unity3D<br><br>
-Check the project : <a href="https://mohamad-16.itch.io/vr-fishing">https://mohamad-16.itch.io/vr-fishing</a> 
+GUI application to track the COVID-19 cases.
 
-<img src="images/projects/vr.jpeg?raw=true"/>
+Source code : <a href="https://github.com/Mohamad-Masri/Steganography">https://github.com/Mohamad-Masri/Steganography</a> 
+
+<img src="images/projects/covid.png?raw=true"/>
 
 ---
 
