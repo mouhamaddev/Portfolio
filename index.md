@@ -4,6 +4,22 @@
 Experienced Python developer with extensive Data science experience looking to continue to develop my skill set on artificial intelligence and machine learning. I've built projects on small teams and I'm looking for a role where I can grow and continue to learn from other experienced team members.
 
 ---
+
+## Some Certifications :
+
+**CS50**
+
+<img src="images/CS50x.png?raw=true"/>
+
+<a href="https://certificates.cs50.io/235ba170-f824-4f2a-864c-57a8820b0472.png?size=letter">https://certificates.cs50.io/235ba170-f824-4f2a-864c-57a8820b0472.png?size=letter</a>
+ <br>
+
+**C# SoloLearn Course**
+
+<img src="images/solo.jpg?raw=true"/>
+
+---
+
 ## Projects :
 
 <br>
