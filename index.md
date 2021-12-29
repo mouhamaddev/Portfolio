@@ -58,7 +58,7 @@ Demo : <a href="https://www.youtube.com/watch?v=ieIk7aw0K3Q">https://www.youtube
 
 This app allows you to browse and buy from over 50000 products at large discounts in all shopping categories like: Fashion, electronics, mobiles, tablets and Home
 <br><br>Language used : Js (react native)<br><br>
-Source code : <a href="https://github.com/Mohamad-Masri/python-crypto-analyser">https://github.com/Mohamad-Masri/python-crypto-analyser</a>
+
 
 <img src="images/projects/store.jpeg?raw=true"/>
 
@@ -68,7 +68,7 @@ Source code : <a href="https://github.com/Mohamad-Masri/python-crypto-analyser">
 
 This app is a personalized news aggregator that organizes and highlights what’s happening in the world so you can discover more about the stories that matter to you.
 <br><br>Language used : Js (react native)<br><br>
-Source code : <a href="https://github.com/Mohamad-Masri/python-crypto-analyser">https://github.com/Mohamad-Masri/python-crypto-analyser</a>
+
 
 <img src="images/projects/news.jpeg?raw=true"/>
 
@@ -78,7 +78,7 @@ Source code : <a href="https://github.com/Mohamad-Masri/python-crypto-analyser">
 
 Solitaire is a classic card game. It's a brand new, easy to play and addictive card game. Gorgeous graphics and interesting music are specially designed for mobile phones to give you the best poker experience.
 <br><br>Language used : Js (react native)<br><br>
-Source code : <a href="https://github.com/Mohamad-Masri/python-crypto-analyser">https://github.com/Mohamad-Masri/python-crypto-analyser</a>
+
 
 <img src="images/projects/soli.jpeg?raw=true"/>
 
