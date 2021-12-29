@@ -36,7 +36,7 @@ Source code : <a href="https://github.com/Mohamad-Masri/python-crypto-analyser">
 
 **CarWay**
 
-How do Bitcoin markets behave? What are the causes of the sudden spikes and dips in cryptocurrency values? The goal of this project is to  analyze, and visualize data on different cryptocurrencies.
+CarWay is an app used to reduce gasoline costs in Lebanon by sharing cars! And with Carway, your destination is at your fingertips. Just open the app and enter where you want to go, and a nearby driver will help you get there reliably.
 <br><br>Language used : Js (react native)<br><br>
 Demo : <a href="https://www.youtube.com/watch?v=xIIKRSJJ57Q">https://www.youtube.com/watch?v=xIIKRSJJ57Q</a>
 
@@ -46,7 +46,7 @@ Demo : <a href="https://www.youtube.com/watch?v=xIIKRSJJ57Q">https://www.youtube
 
 **AlphaChain**
 
-How do Bitcoin markets behave? What are the causes of the sudden spikes and dips in cryptocurrency values? The goal of this project is to  analyze, and visualize data on different cryptocurrencies.
+Bitcoin and cryptocurrency data, real time prices, charts, market cap, portfolio, widgets and more...
 <br><br>Language used : Js (react native)<br><br>
 Demo : <a href="https://www.youtube.com/watch?v=ieIk7aw0K3Q">https://www.youtube.com/watch?v=ieIk7aw0K3Q</a>
 
@@ -56,7 +56,7 @@ Demo : <a href="https://www.youtube.com/watch?v=ieIk7aw0K3Q">https://www.youtube
 
 **My Online Store**
 
-How do Bitcoin markets behave? What are the causes of the sudden spikes and dips in cryptocurrency values? The goal of this project is to  analyze, and visualize data on different cryptocurrencies.
+This app allows you to browse and buy from over 50000 products at large discounts in all shopping categories like: Fashion, electronics, mobiles, tablets and Home
 <br><br>Language used : Js (react native)<br><br>
 Source code : <a href="https://github.com/Mohamad-Masri/python-crypto-analyser">https://github.com/Mohamad-Masri/python-crypto-analyser</a>
 
@@ -66,7 +66,7 @@ Source code : <a href="https://github.com/Mohamad-Masri/python-crypto-analyser">
 
 **News App**
 
-How do Bitcoin markets behave? What are the causes of the sudden spikes and dips in cryptocurrency values? The goal of this project is to  analyze, and visualize data on different cryptocurrencies.
+This app is a personalized news aggregator that organizes and highlights what’s happening in the world so you can discover more about the stories that matter to you.
 <br><br>Language used : Js (react native)<br><br>
 Source code : <a href="https://github.com/Mohamad-Masri/python-crypto-analyser">https://github.com/Mohamad-Masri/python-crypto-analyser</a>
 
@@ -76,7 +76,7 @@ Source code : <a href="https://github.com/Mohamad-Masri/python-crypto-analyser">
 
 **Solitaire**
 
-How do Bitcoin markets behave? What are the causes of the sudden spikes and dips in cryptocurrency values? The goal of this project is to  analyze, and visualize data on different cryptocurrencies.
+Solitaire is a classic card game. It's a brand new, easy to play and addictive card game. Gorgeous graphics and interesting music are specially designed for mobile phones to give you the best poker experience.
 <br><br>Language used : Js (react native)<br><br>
 Source code : <a href="https://github.com/Mohamad-Masri/python-crypto-analyser">https://github.com/Mohamad-Masri/python-crypto-analyser</a>
 
@@ -86,7 +86,7 @@ Source code : <a href="https://github.com/Mohamad-Masri/python-crypto-analyser">
 
 **Book reviews app**
 
-How do Bitcoin markets behave? What are the causes of the sudden spikes and dips in cryptocurrency values? The goal of this project is to  analyze, and visualize data on different cryptocurrencies.
+Find, get, and share books you love on Goodreads, the world's largest site for readers and book recommendations. More than 75 million members have added more than 2.2 billion books to their shelves. (This app gets the reviews from goodreads)
 <br><br>Language used : Js (react native)<br><br>
 Demo : <a href="https://www.youtube.com/watch?v=maBqkL7E2h0">https://www.youtube.com/watch?v=maBqkL7E2h0</a>
 
@@ -96,7 +96,7 @@ Demo : <a href="https://www.youtube.com/watch?v=maBqkL7E2h0">https://www.youtube
 
 **Gym guide**
 
-How do Bitcoin markets behave? What are the causes of the sudden spikes and dips in cryptocurrency values? The goal of this project is to  analyze, and visualize data on different cryptocurrencies.
+Contains a more than 70 exercises with photos and detailed description + BMI calculator.
 <br><br>Language used : Js (react native)<br><br>
 Demo : <a href="https://www.youtube.com/watch?v=XWytdPq5zY0">https://www.youtube.com/watch?v=XWytdPq5zY0</a>
 
