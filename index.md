@@ -50,7 +50,7 @@ Bitcoin and cryptocurrency data, real time prices, charts, market cap, portfolio
 <br><br>Language used : Js (react native)<br><br>
 Demo : <a href="https://www.youtube.com/watch?v=ieIk7aw0K3Q">https://www.youtube.com/watch?v=ieIk7aw0K3Q</a>
 
-<img src="images/projects/alpha.jpeg?raw=true"/>
+<img src="images/projects/alphaa.jpeg?raw=true"/>
 
 ---
 
