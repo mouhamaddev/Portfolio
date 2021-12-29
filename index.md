@@ -33,20 +33,74 @@ Source code : <a href="https://github.com/Mohamad-Masri/python-crypto-analyser">
 <img src="images/projects/crypto.png?raw=true"/>
 
 ---
-**Reddit Bot**
 
-Reddit is a network of communities based on people’s interests. A Reddit bot is something that automatically responds to a user’s post or automatically posts things at certain intervals. This bot will print the info of a post containing specific keywords and post a comment on it.
-<br><br>Language used : Python<br><br> Source code : <a href="https://github.com/Mohamad-Masri/reddit-bot">https://github.com/Mohamad-Masri/reddit-bot</a> 
+**CarWay**
 
-<img src="images/projects/reddit.jpeg?raw=true"/>
+How do Bitcoin markets behave? What are the causes of the sudden spikes and dips in cryptocurrency values? The goal of this project is to  analyze, and visualize data on different cryptocurrencies.
+<br><br>Language used : Js (react native)<br><br>
+Demo : <a href="https://www.youtube.com/watch?v=xIIKRSJJ57Q">https://www.youtube.com/watch?v=xIIKRSJJ57Q</a>
+
+<img src="images/projects/car.jpeg?raw=true"/>
 
 ---
-**Steganography**
 
-Steganography is simply practice of hiding secret messages within or over something that is no secret. It is just a process of embedding a secret piece of text within a text, picture, or audio. This project encode image inside another image using PIL library.<br><br>Language used : Python<br><br>
-Source code : <a href="https://github.com/Mohamad-Masri/Steganography">https://github.com/Mohamad-Masri/Steganography</a> 
+**AlphaChain**
 
-<img src="images/projects/steg.jpg?raw=true"/>
+How do Bitcoin markets behave? What are the causes of the sudden spikes and dips in cryptocurrency values? The goal of this project is to  analyze, and visualize data on different cryptocurrencies.
+<br><br>Language used : Js (react native)<br><br>
+Demo : <a href="https://www.youtube.com/watch?v=ieIk7aw0K3Q">https://www.youtube.com/watch?v=ieIk7aw0K3Q</a>
+
+<img src="images/projects/alpha.jpeg?raw=true"/>
+
+---
+
+**My Online Store**
+
+How do Bitcoin markets behave? What are the causes of the sudden spikes and dips in cryptocurrency values? The goal of this project is to  analyze, and visualize data on different cryptocurrencies.
+<br><br>Language used : Js (react native)<br><br>
+Source code : <a href="https://github.com/Mohamad-Masri/python-crypto-analyser">https://github.com/Mohamad-Masri/python-crypto-analyser</a>
+
+<img src="images/projects/store.jpeg?raw=true"/>
+
+---
+
+**News App**
+
+How do Bitcoin markets behave? What are the causes of the sudden spikes and dips in cryptocurrency values? The goal of this project is to  analyze, and visualize data on different cryptocurrencies.
+<br><br>Language used : Js (react native)<br><br>
+Source code : <a href="https://github.com/Mohamad-Masri/python-crypto-analyser">https://github.com/Mohamad-Masri/python-crypto-analyser</a>
+
+<img src="images/projects/news.jpeg?raw=true"/>
+
+---
+
+**Solitaire**
+
+How do Bitcoin markets behave? What are the causes of the sudden spikes and dips in cryptocurrency values? The goal of this project is to  analyze, and visualize data on different cryptocurrencies.
+<br><br>Language used : Js (react native)<br><br>
+Source code : <a href="https://github.com/Mohamad-Masri/python-crypto-analyser">https://github.com/Mohamad-Masri/python-crypto-analyser</a>
+
+<img src="images/projects/soli.jpeg?raw=true"/>
+
+---
+
+**Book reviews app**
+
+How do Bitcoin markets behave? What are the causes of the sudden spikes and dips in cryptocurrency values? The goal of this project is to  analyze, and visualize data on different cryptocurrencies.
+<br><br>Language used : Js (react native)<br><br>
+Demo : <a href="https://www.youtube.com/watch?v=maBqkL7E2h0">https://www.youtube.com/watch?v=maBqkL7E2h0</a>
+
+<img src="images/projects/book.jpeg?raw=true"/>
+
+---
+
+**Gym guide**
+
+How do Bitcoin markets behave? What are the causes of the sudden spikes and dips in cryptocurrency values? The goal of this project is to  analyze, and visualize data on different cryptocurrencies.
+<br><br>Language used : Js (react native)<br><br>
+Demo : <a href="https://www.youtube.com/watch?v=XWytdPq5zY0">https://www.youtube.com/watch?v=XWytdPq5zY0</a>
+
+<img src="images/projects/gym.jpeg?raw=true"/>
 
 ---
 
