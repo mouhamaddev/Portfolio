@@ -36,76 +36,6 @@ Source code : <a href="https://github.com/Mohamad-Masri/python-crypto-analyser">
 
 ---
 
-**CarWay**
-
-CarWay is an app used to reduce gasoline costs in Lebanon by sharing cars! And with Carway, your destination is at your fingertips. Just open the app and enter where you want to go, and a nearby driver will help you get there reliably.
-<br><br>Language used : Js (react native)<br><br>
-Demo : <a href="https://www.youtube.com/watch?v=xIIKRSJJ57Q">https://www.youtube.com/watch?v=xIIKRSJJ57Q</a>
-
-<img src="images/projects/car.jpeg?raw=true"/>
-
----
-
-**AlphaChain**
-
-Bitcoin and cryptocurrency data, real time prices, charts, market cap, portfolio, widgets and more...
-<br><br>Language used : Js (react native)<br><br>
-Demo : <a href="https://www.youtube.com/watch?v=ieIk7aw0K3Q">https://www.youtube.com/watch?v=ieIk7aw0K3Q</a>
-
-<img src="images/projects/alphaa.jpeg?raw=true"/>
-
----
-
-**My Online Store**
-
-This app allows you to browse and buy from over 50000 products at large discounts in all shopping categories like: Fashion, electronics, mobiles, tablets and Home
-<br><br>Language used : Js (react native)<br><br>
-
-
-<img src="images/projects/store.jpeg?raw=true"/>
-
----
-
-**News App**
-
-This app is a personalized news aggregator that organizes and highlights what’s happening in the world so you can discover more about the stories that matter to you.
-<br><br>Language used : Js (react native)<br><br>
-
-
-<img src="images/projects/news.jpeg?raw=true"/>
-
----
-
-**Solitaire**
-
-Solitaire is a classic card game. It's a brand new, easy to play and addictive card game. Gorgeous graphics and interesting music are specially designed for mobile phones to give you the best poker experience.
-<br><br>Language used : Js (react native)<br><br>
-
-
-<img src="images/projects/soli.jpeg?raw=true"/>
-
----
-
-**Book reviews app**
-
-Find, get, and share books you love on Goodreads, the world's largest site for readers and book recommendations. More than 75 million members have added more than 2.2 billion books to their shelves. (This app gets the reviews from goodreads)
-<br><br>Language used : Js (react native)<br><br>
-Demo : <a href="https://www.youtube.com/watch?v=maBqkL7E2h0">https://www.youtube.com/watch?v=maBqkL7E2h0</a>
-
-<img src="images/projects/book.jpeg?raw=true"/>
-
----
-
-**Gym guide**
-
-Contains a more than 70 exercises with photos and detailed description + BMI calculator.
-<br><br>Language used : Js (react native)<br><br>
-Demo : <a href="https://www.youtube.com/watch?v=XWytdPq5zY0">https://www.youtube.com/watch?v=XWytdPq5zY0</a>
-
-<img src="images/projects/gym.jpeg?raw=true"/>
-
----
-
 **Covid-19 Tracker**
 
 GUI application to track the COVID-19 cases.
@@ -274,6 +204,76 @@ Check the project : <a href="https://mohamad-16.itch.io/vr-fishing">https://moha
 <img src="images/projects/vr.jpeg?raw=true"/>
 
 ---
+
+---
+
+**CarWay**
+
+CarWay is an app used to reduce gasoline costs in Lebanon by sharing cars! And with Carway, your destination is at your fingertips. Just open the app and enter where you want to go, and a nearby driver will help you get there reliably.
+<br><br>Language used : Js (react native)<br><br>
+Demo : <a href="https://www.youtube.com/watch?v=xIIKRSJJ57Q">https://www.youtube.com/watch?v=xIIKRSJJ57Q</a>
+
+<img src="images/projects/car.jpeg?raw=true"/>
+
+---
+
+**AlphaChain**
+
+Bitcoin and cryptocurrency data, real time prices, charts, market cap, portfolio, widgets and more...
+<br><br>Language used : Js (react native)<br><br>
+Demo : <a href="https://www.youtube.com/watch?v=ieIk7aw0K3Q">https://www.youtube.com/watch?v=ieIk7aw0K3Q</a>
+
+<img src="images/projects/alphaa.jpeg?raw=true"/>
+
+---
+
+**My Online Store**
+
+This app allows you to browse and buy from over 50000 products at large discounts in all shopping categories like: Fashion, electronics, mobiles, tablets and Home
+<br><br>Language used : Js (react native)<br><br>
+
+
+<img src="images/projects/store.jpeg?raw=true"/>
+
+---
+
+**News App**
+
+This app is a personalized news aggregator that organizes and highlights what’s happening in the world so you can discover more about the stories that matter to you.
+<br><br>Language used : Js (react native)<br><br>
+
+
+<img src="images/projects/news.jpeg?raw=true"/>
+
+---
+
+**Solitaire**
+
+Solitaire is a classic card game. It's a brand new, easy to play and addictive card game. Gorgeous graphics and interesting music are specially designed for mobile phones to give you the best poker experience.
+<br><br>Language used : Js (react native)<br><br>
+
+
+<img src="images/projects/soli.jpeg?raw=true"/>
+
+---
+
+**Book reviews app**
+
+Find, get, and share books you love on Goodreads, the world's largest site for readers and book recommendations. More than 75 million members have added more than 2.2 billion books to their shelves. (This app gets the reviews from goodreads)
+<br><br>Language used : Js (react native)<br><br>
+Demo : <a href="https://www.youtube.com/watch?v=maBqkL7E2h0">https://www.youtube.com/watch?v=maBqkL7E2h0</a>
+
+<img src="images/projects/book.jpeg?raw=true"/>
+
+---
+
+**Gym guide**
+
+Contains a more than 70 exercises with photos and detailed description + BMI calculator.
+<br><br>Language used : Js (react native)<br><br>
+Demo : <a href="https://www.youtube.com/watch?v=XWytdPq5zY0">https://www.youtube.com/watch?v=XWytdPq5zY0</a>
+
+<img src="images/projects/gym.jpeg?raw=true"/>
 
 <!-- Remove above link if you don't want to attibute -->
 
