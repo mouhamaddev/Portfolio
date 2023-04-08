@@ -1,7 +1,6 @@
-title: Mohammad Massri # your name (or website title) here
+title: "<h2>Mohammad Massri</h2>" # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
- # your text below (remove <br> elements if you don't need line breaks)
-  <br>
+description: > # your text below (remove <br> elements if you don't need line breaks)
   Worked alongside Python and Web/Mobile development.
   <br><br>
   Tripoli, Lebanon
