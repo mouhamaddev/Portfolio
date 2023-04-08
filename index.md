@@ -265,15 +265,3 @@ Demo : <a href="https://www.youtube.com/watch?v=maBqkL7E2h0">https://www.youtube
 
 <img src="images/projects/book.jpeg?raw=true"/>
 
----
-
-**Gym guide**
-
-Contains a more than 70 exercises with photos and detailed description + BMI calculator.
-<br><br>Language used : Js (react native)<br><br>
-Demo : <a href="https://www.youtube.com/watch?v=XWytdPq5zY0">https://www.youtube.com/watch?v=XWytdPq5zY0</a>
-
-<img src="images/projects/gym.jpeg?raw=true"/>
-
-<!-- Remove above link if you don't want to attibute -->
-
