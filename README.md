@@ -48,6 +48,7 @@
 
 #### GameEngines, Frameworks & Tools
 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5026D5?style=for-the-badge&logo=.net&logoColor=white)
 ![Xamarin.forms](https://img.shields.io/badge/Xamarin.Forms-blue?style=for-the-badge&logo=xamarin&logoColor=white)
@@ -56,9 +57,6 @@
 ![ReactJS](https://img.shields.io/badge/-reactjs-57c4e2?style=for-the-badge&logo=react&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-nodejs-80bd00?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/-flask-0a1a60?style=for-the-badge&logo=flask&logoColor=white)
-
-#### Profile Visitors
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mouhamaddev.mouhamaddev)
 
 #### Github Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UUinc&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
