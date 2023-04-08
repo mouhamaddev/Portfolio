@@ -58,9 +58,11 @@
 ![Flask](https://img.shields.io/badge/-flask-0a1a60?style=for-the-badge&logo=flask&logoColor=white)
 
 #### Profile Visitors
-![visitors](https://visitor-badge.glitch.me/badge?page_id=UUinc.UUinc)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mouhamaddev.mouhamaddev)
 
 #### Github Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UUinc&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="mouhamaddev" data-color="#FFDD00" data-emoji=""  data-font="Comic" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+<a href="https://www.buymeacoffee.com/mouhamaddev" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 33px !important;width: 116px !important;">
+</a>
