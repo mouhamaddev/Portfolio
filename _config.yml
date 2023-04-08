@@ -1,7 +1,7 @@
 title: Mohammad Massri # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Worked alongside python and mobile/desktop development.
+  Worked alongside Python and Web/Mobile development.
   <br><br>
   Tripoli, Lebanon
   <br><br>
@@ -9,11 +9,13 @@ description: > # your text below (remove <br> elements if you don't need line br
   Skills :
 
   <br>● Python
-  <br>● C/C++
-  <br>● SQL
-  <br>● APIs
-  <br>● AWS (Redshift)
+  <br>● Django - DRF
+  <br>● REST API
+  <br>● Node.js
+  <br>● AWS
+  <br>● Linux
   <br>● Git
+  <br>● Docker
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
