@@ -20,6 +20,11 @@ Experienced Python developer with strong back-end development skills looking to 
 
 <img src="images/solo.jpg?raw=true"/>
 
+
+**Python Course**
+
+<img src="images/python1_RecordOfAchievement_page-0001.jpg?raw=true"/>
+
 ---
 
 ## Projects :
