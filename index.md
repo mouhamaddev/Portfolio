@@ -31,6 +31,126 @@ Experienced Python developer with strong back-end development skills looking to 
 
 <br>
 
+
+**Book Store**
+
+description
+<br><br>Language used : Python, Django<br><br>
+Source code : <a href="https://github.com">https://github.com</a>
+
+<img src="https://fsa.zobj.net/crop.php?r=n8PxmPO8m-hDgt8giyJ5aHbC9yC0_vHxG-MKYeNwp96vSiiSr12QlcjY6YvZJNxOWl1v2vEpnogYlJp9B8nVuTaBLnsf7xUw9R7WueBVLxN_P4UFc0ztV3LrhASlhCdm-RJT0IWLL8RvbEDMCIrZR0_tMzBqJtKmbVy9YNU3PqLbENmLpysG6HqiNmo?raw=true"/>
+
+---
+
+**E-commerce Website**
+
+description
+<br><br>Language used : Python, Django<br><br>
+Source code : <a href="https://github.com">https://github.com</a>
+
+<img src="https://fsa.zobj.net/crop.php?r=n8PxmPO8m-hDgt8giyJ5aHbC9yC0_vHxG-MKYeNwp96vSiiSr12QlcjY6YvZJNxOWl1v2vEpnogYlJp9B8nVuTaBLnsf7xUw9R7WueBVLxN_P4UFc0ztV3LrhASlhCdm-RJT0IWLL8RvbEDMCIrZR0_tMzBqJtKmbVy9YNU3PqLbENmLpysG6HqiNmo?raw=true"/>
+
+---
+
+**Social Network**
+
+description
+<br><br>Language used : Python, Django<br><br>
+Source code : <a href="https://github.com">https://github.com</a>
+
+<img src="https://fsa.zobj.net/crop.php?r=n8PxmPO8m-hDgt8giyJ5aHbC9yC0_vHxG-MKYeNwp96vSiiSr12QlcjY6YvZJNxOWl1v2vEpnogYlJp9B8nVuTaBLnsf7xUw9R7WueBVLxN_P4UFc0ztV3LrhASlhCdm-RJT0IWLL8RvbEDMCIrZR0_tMzBqJtKmbVy9YNU3PqLbENmLpysG6HqiNmo?raw=true"/>
+
+---
+
+**Inventory Management System**
+
+description
+<br><br>Language used : Python, Django Rest Framework<br><br>
+Source code : <a href="https://github.com">https://github.com</a>
+
+<img src="https://fsa.zobj.net/crop.php?r=n8PxmPO8m-hDgt8giyJ5aHbC9yC0_vHxG-MKYeNwp96vSiiSr12QlcjY6YvZJNxOWl1v2vEpnogYlJp9B8nVuTaBLnsf7xUw9R7WueBVLxN_P4UFc0ztV3LrhASlhCdm-RJT0IWLL8RvbEDMCIrZR0_tMzBqJtKmbVy9YNU3PqLbENmLpysG6HqiNmo?raw=true"/>
+
+---
+
+**Blogging Platform**
+
+description
+<br><br>Language used : Python, Flask<br><br>
+Source code : <a href="https://github.com">https://github.com</a>
+
+<img src="https://fsa.zobj.net/crop.php?r=n8PxmPO8m-hDgt8giyJ5aHbC9yC0_vHxG-MKYeNwp96vSiiSr12QlcjY6YvZJNxOWl1v2vEpnogYlJp9B8nVuTaBLnsf7xUw9R7WueBVLxN_P4UFc0ztV3LrhASlhCdm-RJT0IWLL8RvbEDMCIrZR0_tMzBqJtKmbVy9YNU3PqLbENmLpysG6HqiNmo?raw=true"/>
+
+---
+
+**OPEVCVVVVVVV**
+
+description
+<br><br>Language used : Python, Flask<br><br>
+Source code : <a href="https://github.com">https://github.com</a>
+
+<img src="https://fsa.zobj.net/crop.php?r=n8PxmPO8m-hDgt8giyJ5aHbC9yC0_vHxG-MKYeNwp96vSiiSr12QlcjY6YvZJNxOWl1v2vEpnogYlJp9B8nVuTaBLnsf7xUw9R7WueBVLxN_P4UFc0ztV3LrhASlhCdm-RJT0IWLL8RvbEDMCIrZR0_tMzBqJtKmbVy9YNU3PqLbENmLpysG6HqiNmo?raw=true"/>
+
+---
+
+**Expenses Tracker**
+
+description
+<br><br>Language used : JavaScript, ExpressJs<br><br>
+Source code : <a href="https://github.com">https://github.com</a>
+
+<img src="https://fsa.zobj.net/crop.php?r=n8PxmPO8m-hDgt8giyJ5aHbC9yC0_vHxG-MKYeNwp96vSiiSr12QlcjY6YvZJNxOWl1v2vEpnogYlJp9B8nVuTaBLnsf7xUw9R7WueBVLxN_P4UFc0ztV3LrhASlhCdm-RJT0IWLL8RvbEDMCIrZR0_tMzBqJtKmbVy9YNU3PqLbENmLpysG6HqiNmo?raw=true"/>
+
+---
+
+**Task Manager**
+
+description
+<br><br>Language used : JavaScript, Angular<br><br>
+Source code : <a href="https://github.com">https://github.com</a>
+
+<img src="https://fsa.zobj.net/crop.php?r=n8PxmPO8m-hDgt8giyJ5aHbC9yC0_vHxG-MKYeNwp96vSiiSr12QlcjY6YvZJNxOWl1v2vEpnogYlJp9B8nVuTaBLnsf7xUw9R7WueBVLxN_P4UFc0ztV3LrhASlhCdm-RJT0IWLL8RvbEDMCIrZR0_tMzBqJtKmbVy9YNU3PqLbENmLpysG6HqiNmo?raw=true"/>
+
+---
+
+**Recipe**
+
+description
+<br><br>Language used : Python, React Js<br><br>
+Source code : <a href="https://github.com">https://github.com</a>
+
+<img src="https://fsa.zobj.net/crop.php?r=n8PxmPO8m-hDgt8giyJ5aHbC9yC0_vHxG-MKYeNwp96vSiiSr12QlcjY6YvZJNxOWl1v2vEpnogYlJp9B8nVuTaBLnsf7xUw9R7WueBVLxN_P4UFc0ztV3LrhASlhCdm-RJT0IWLL8RvbEDMCIrZR0_tMzBqJtKmbVy9YNU3PqLbENmLpysG6HqiNmo?raw=true"/>
+
+---
+
+**Forum**
+
+description
+<br><br>Language used : Python, React Js<br><br>
+Source code : <a href="https://github.com">https://github.com</a>
+
+<img src="https://fsa.zobj.net/crop.php?r=n8PxmPO8m-hDgt8giyJ5aHbC9yC0_vHxG-MKYeNwp96vSiiSr12QlcjY6YvZJNxOWl1v2vEpnogYlJp9B8nVuTaBLnsf7xUw9R7WueBVLxN_P4UFc0ztV3LrhASlhCdm-RJT0IWLL8RvbEDMCIrZR0_tMzBqJtKmbVy9YNU3PqLbENmLpysG6HqiNmo?raw=true"/>
+
+---
+
+**Cryptocurrency Analysis**
+
+How do Bitcoin markets behave? What are the causes of the sudden spikes and dips in cryptocurrency values? The goal of this project is to  analyze, and visualize data on different cryptocurrencies.
+<br><br>Language used : Python<br><br>
+Source code : <a href="https://github.com/Mohamad-Masri/python-crypto-analyser">https://github.com/Mohamad-Masri/python-crypto-analyser</a>
+
+<img src="images/projects/crypto.png?raw=true"/>
+
+---
+
+**Cryptocurrency Analysis**
+
+How do Bitcoin markets behave? What are the causes of the sudden spikes and dips in cryptocurrency values? The goal of this project is to  analyze, and visualize data on different cryptocurrencies.
+<br><br>Language used : Python<br><br>
+Source code : <a href="https://github.com/Mohamad-Masri/python-crypto-analyser">https://github.com/Mohamad-Masri/python-crypto-analyser</a>
+
+<img src="images/projects/crypto.png?raw=true"/>
+
+---
 **Cryptocurrency Analysis**
 
 How do Bitcoin markets behave? What are the causes of the sudden spikes and dips in cryptocurrency values? The goal of this project is to  analyze, and visualize data on different cryptocurrencies.
