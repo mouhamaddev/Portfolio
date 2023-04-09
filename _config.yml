@@ -1,5 +1,5 @@
-title: "<h5 style='color: #4287f5;'>Mohammad sup Massri</h5>" # your name (or website title) here
-logo: "<div style='width:100px; height: 100px'>/images/logo.png?raw=true</div>" # your photo (or logo) here
+title: "Mohammad Massri" # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Worked alongside Python and Web/Mobile development.
   <br><br>
