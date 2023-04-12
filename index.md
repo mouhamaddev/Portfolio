@@ -136,7 +136,7 @@ Source code : <a href="https://github.com">https://github.com</a>
 
 How do Bitcoin markets behave? What are the causes of the sudden spikes and dips in cryptocurrency values? The goal of this project is to  analyze, and visualize data on different cryptocurrencies.
 <br><br>Language used : Python<br><br>
-Source code : <a href="https://github.com/Mohamad-Masri/python-crypto-analyser">https://github.com/Mohamad-Masri/python-crypto-analyser</a>
+Source code : <a href="https://github.com/mouhamaddev/python-crypto-analyser">https://github.com/mouhamaddev/python-crypto-analyser</a>
 
 <img src="images/projects/crypto.png?raw=true"/>
 
@@ -146,7 +146,7 @@ Source code : <a href="https://github.com/Mohamad-Masri/python-crypto-analyser">
 
 GUI application to track the COVID-19 cases.
 
-Source code : <a href="https://github.com/Mohamad-Masri/Steganography">https://github.com/Mohamad-Masri/Steganography</a> 
+Source code : <a href="https://github.com/mouhamaddev/Covid-19-Tracker">https://github.com/mouhamaddev/Covid-19-Tracker</a> 
 
 <img src="images/projects/covid.png?raw=true"/>
 
@@ -156,7 +156,7 @@ Source code : <a href="https://github.com/Mohamad-Masri/Steganography">https://g
 
 Don't know how many finges you have? Use this program to count them! It first look into hand tracking and then use the hand landmarks to count of the fingers.
 <br><br>Language used : python<br><br>
-Check the project : <a href="https://github.com/Mohamad-Masri/OLD-PROJECTS/tree/main/Finger%20Counter">https://github.com/Mohamad-Masri/OLD-PROJECTS/tree/main/Finger%20Counter</a> 
+Check the project : <a href="https://github.com/mouhamaddev/Finger-Counter">https://github.com/mouhamaddev/Finger-Counter</a> 
 
 <img src="images/projects/finger.jpg?raw=true"/>
 
@@ -166,7 +166,7 @@ Check the project : <a href="https://github.com/Mohamad-Masri/OLD-PROJECTS/tree/
 
 This program will find you any angle if you dont have an angle measurement tool.
 <br><br>Language used : Python<br><br>
-Check the project : <a href="https://github.com/Mohamad-Masri/OLD-PROJECTS/tree/main/Angle%20Finder">https://github.com/Mohamad-Masri/OLD-PROJECTS/tree/main/Angle%20Finder</a> 
+Check the project : <a href="https://github.com/mouhamaddev/Angle-Finder">https://github.com/mouhamaddev/Angle-Finder</a> 
 
 <img src="images/projects/angle.png?raw=true"/>
 
@@ -176,7 +176,7 @@ Check the project : <a href="https://github.com/Mohamad-Masri/OLD-PROJECTS/tree/
 
 Simple document scanner to scan your document.
 <br><br>Language used : Python<br><br>
-Check the project : <a href="https://github.com/Mohamad-Masri/OLD-PROJECTS/tree/main/Document%20Scanner">https://github.com/Mohamad-Masri/OLD-PROJECTS/tree/main/Document%20Scanner</a> 
+Check the project : <a href="https://github.com/mouhamaddev/Document-Scanner">https://github.com/mouhamaddev/Document-Scanner</a> 
 
 <img src="images/projects/scan.jpg?raw=true"/>
 
@@ -186,7 +186,7 @@ Check the project : <a href="https://github.com/Mohamad-Masri/OLD-PROJECTS/tree/
 
 Don't know your age? This app will tell you. You're welcome!
 <br><br>Language used : Python<br><br>
-Check the project : <a href="https://github.com/Mohamad-Masri/OLD-PROJECTS/tree/main/age%20prediction%20app">https://github.com/Mohamad-Masri/OLD-PROJECTS/tree/main/age%20prediction%20app</a> 
+Check the project : <a href="https://github.com/mouhamaddev/Age-Prediction">https://github.com/mouhamaddev/Age-Prediction</a> 
 
 <img src="images/projects/age.png?raw=true"/>
 
@@ -196,7 +196,7 @@ Check the project : <a href="https://github.com/Mohamad-Masri/OLD-PROJECTS/tree/
 
 Simple hand tracking module.
 <br><br>Language used : Python<br><br>
-Check the project : <a href="https://github.com/Mohamad-Masri/OLD-PROJECTS/tree/main/hand%20tracking%20module">https://github.com/Mohamad-Masri/OLD-PROJECTS/tree/main/hand%20tracking%20module</a> 
+Check the project : <a href="https://github.com/mouhamaddev/Hand-Tracking-Module">https://github.com/mouhamaddev/Hand-Tracking-Module</a> 
 
 <img src="images/projects/hand.jpg?raw=true"/>
 
@@ -206,7 +206,7 @@ Check the project : <a href="https://github.com/Mohamad-Masri/OLD-PROJECTS/tree/
 
 Forgot your measurement tool again?
 <br><br>Language used : Python<br><br>
-Check the project : <a href="https://github.com/Mohamad-Masri/OLD-PROJECTS/tree/main/Object%20Size%20Measurement">https://github.com/Mohamad-Masri/OLD-PROJECTS/tree/main/Object%20Size%20Measurement</a> 
+Check the project : <a href="https://github.com/mouhamaddev/Object-Size-Measurement">https://github.com/mouhamaddev/Object-Size-Measurement</a> 
 
 <img src="images/projects/size.jpg?raw=true"/>
 
@@ -216,7 +216,7 @@ Check the project : <a href="https://github.com/Mohamad-Masri/OLD-PROJECTS/tree/
 
 Text detection program.
 <br><br>Language used : Python<br><br>
-Check the project : <a href="https://github.com/Mohamad-Masri/OLD-PROJECTS/tree/main/Text%20Detection">https://github.com/Mohamad-Masri/OLD-PROJECTS/tree/main/Text%20Detection</a> 
+Check the project : <a href="https://github.com/mouhamaddev/Text-Detection">https://github.com/mouhamaddev/Text-Detection</a> 
 
 <img src="images/projects/stop-sign.jpg?raw=true"/>
 
@@ -226,7 +226,7 @@ Check the project : <a href="https://github.com/Mohamad-Masri/OLD-PROJECTS/tree/
 
 This project detect 468 different landmarks on faces using the model provided by google that runs in real-time on CPU and mobile devices.
 <br><br>Language used : Python<br><br>
-Check the project : <a href="https://github.com/Mohamad-Masri/OLD-PROJECTS/tree/main/468%20Face%20Landmarks">https://github.com/Mohamad-Masri/OLD-PROJECTS/tree/main/468%20Face%20Landmarks</a> 
+Check the project : <a href="https://github.com/mouhamaddev/468-Face-Landmarks">https://github.com/mouhamaddev/468-Face-Landmarks</a> 
 
 <img src="images/projects/me.png?raw=true"/>
 
@@ -259,16 +259,6 @@ Find, get, and share books you love on Goodreads, the world's largest site for r
 Demo : <a href="https://www.youtube.com/watch?v=maBqkL7E2h0">https://www.youtube.com/watch?v=maBqkL7E2h0</a>
 
 <img src="images/projects/book.jpeg?raw=true"/>
-
----
-
-**Solitaire**
-
-Solitaire is a classic card game. It's a brand new, easy to play and addictive card game. Gorgeous graphics and interesting music are specially designed for mobile phones to give you the best poker experience.
-<br><br>Language used : Js (react native)<br><br>
-
-
-<img src="images/projects/soli.jpeg?raw=true"/>
 
 ---
 
