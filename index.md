@@ -38,7 +38,7 @@ Derived from Neural Networks, subset of machine learning and the heart of deep l
 <br><br>Language used : Python<br><br>
 Live Demo : <a href="https://mouhamaddev.github.io/Neuraliqa/">https://mouhamaddev.github.io/Neuraliqa/</a>
 
-<img src="images/projects/DRF.png?raw=true"/>
+<img src="images/projects/neuraliqa.png?raw=true"/>
 
 ---
 
