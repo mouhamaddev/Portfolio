@@ -82,7 +82,7 @@ Source code : <a href="https://github.com">https://github.com</a>
 
 ---
 
-**OPEVCVVVVVVV**
+**OpenCV Projects INSET HERE**
 
 description
 <br><br>Language used : Python, Flask<br><br>
@@ -144,7 +144,7 @@ Source code : <a href="https://github.com/mouhamaddev/python-crypto-analyser">ht
 
 **Covid-19 Tracker**
 
-GUI application to track the COVID-19 cases.
+The Covid-19 Tracker is a web-based application that provides real-time updates and visualizations of Covid-19 data worldwide.
 
 Source code : <a href="https://github.com/mouhamaddev/Covid-19-Tracker">https://github.com/mouhamaddev/Covid-19-Tracker</a> 
 
@@ -154,7 +154,7 @@ Source code : <a href="https://github.com/mouhamaddev/Covid-19-Tracker">https://
 
 **Finger Counter**
 
-Don't know how many finges you have? Use this program to count them! It first look into hand tracking and then use the hand landmarks to count of the fingers.
+The Finger Counter is an OpenCV-based project that uses computer vision to accurately count the number of fingers shown in a video stream.
 <br><br>Language used : python<br><br>
 Check the project : <a href="https://github.com/mouhamaddev/Finger-Counter">https://github.com/mouhamaddev/Finger-Counter</a> 
 
@@ -164,7 +164,7 @@ Check the project : <a href="https://github.com/mouhamaddev/Finger-Counter">http
 
 **Angle Finder**
 
-This program will find you any angle if you dont have an angle measurement tool.
+The Angle Finder is an image processing application that calculates angles in images based on user input.
 <br><br>Language used : Python<br><br>
 Check the project : <a href="https://github.com/mouhamaddev/Angle-Finder">https://github.com/mouhamaddev/Angle-Finder</a> 
 
@@ -174,7 +174,7 @@ Check the project : <a href="https://github.com/mouhamaddev/Angle-Finder">https:
 
 **Document Scanner**
 
-Simple document scanner to scan your document.
+The Document Scanner is an image processing application that scans a document image and extracts only the document content, removing any unwanted elements for efficient and accurate document digitization.
 <br><br>Language used : Python<br><br>
 Check the project : <a href="https://github.com/mouhamaddev/Document-Scanner">https://github.com/mouhamaddev/Document-Scanner</a> 
 
@@ -184,7 +184,7 @@ Check the project : <a href="https://github.com/mouhamaddev/Document-Scanner">ht
 
 **Age Prediction**
 
-Don't know your age? This app will tell you. You're welcome!
+The Age Prediction is a real-time application that uses video stream input to estimate the age of the user based on facial features and visual cues.
 <br><br>Language used : Python<br><br>
 Check the project : <a href="https://github.com/mouhamaddev/Age-Prediction">https://github.com/mouhamaddev/Age-Prediction</a> 
 
@@ -194,7 +194,7 @@ Check the project : <a href="https://github.com/mouhamaddev/Age-Prediction">http
 
 **Hand Tracking Module**
 
-Simple hand tracking module.
+The Hand Tracking Module is a computer vision software component that detects and tracks human hands in images or video streams, with applications in gesture recognition, virtual reality, robotics, and human-computer interaction.
 <br><br>Language used : Python<br><br>
 Check the project : <a href="https://github.com/mouhamaddev/Hand-Tracking-Module">https://github.com/mouhamaddev/Hand-Tracking-Module</a> 
 
@@ -204,7 +204,7 @@ Check the project : <a href="https://github.com/mouhamaddev/Hand-Tracking-Module
 
 **Object Size Measurement**
 
-Forgot your measurement tool again?
+The Object Size Measurement is an image processing application that measures the size of objects in video streams.
 <br><br>Language used : Python<br><br>
 Check the project : <a href="https://github.com/mouhamaddev/Object-Size-Measurement">https://github.com/mouhamaddev/Object-Size-Measurement</a> 
 
@@ -214,7 +214,7 @@ Check the project : <a href="https://github.com/mouhamaddev/Object-Size-Measurem
 
 **Text Detection**
 
-Text detection program.
+The Text Detection is an image processing application that identifies and extracts text from images or video streams, with applications in fields such as OCR (Optical Character Recognition), document analysis, and text recognition in images.
 <br><br>Language used : Python<br><br>
 Check the project : <a href="https://github.com/mouhamaddev/Text-Detection">https://github.com/mouhamaddev/Text-Detection</a> 
 
