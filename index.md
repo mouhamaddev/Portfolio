@@ -32,6 +32,16 @@ Experienced Python developer with strong back-end development skills looking to 
 <br>
 
 
+**Neuraliqa**
+
+Derived from Neural Networks, subset of machine learning and the heart of deep learning algorithms. Neuraliqa is a coding website that teach you Machine Learning in a very simple and interactive way. For now, neuraliqa will give free Python tutorials, since Python is perfect and popular for machine learning. We are planning to add many other languages once we finish Python.
+<br><br>Language used : Python<br><br>
+Live Demo : <a href="https://mouhamaddev.github.io/Neuraliqa/">https://mouhamaddev.github.io/Neuraliqa/</a>
+
+<img src="images/projects/DRF.png?raw=true"/>
+
+---
+
 **Book Store**
 
 description
@@ -64,11 +74,11 @@ Source code : <a href="https://github.com">https://github.com</a>
 
 **Inventory Management System**
 
-description
+This is a simple Inventory Management System made with DRF that allows you to store different kind of elements in a crud table
 <br><br>Language used : Python, Django Rest Framework<br><br>
-Source code : <a href="https://github.com">https://github.com</a>
+Source code : <a href="https://github.com/mouhamaddev/InventoryManagementSystem">https://github.com/mouhamaddev/InventoryManagementSystem</a>
 
-<img src="https://fsa.zobj.net/crop.php?r=n8PxmPO8m-hDgt8giyJ5aHbC9yC0_vHxG-MKYeNwp96vSiiSr12QlcjY6YvZJNxOWl1v2vEpnogYlJp9B8nVuTaBLnsf7xUw9R7WueBVLxN_P4UFc0ztV3LrhASlhCdm-RJT0IWLL8RvbEDMCIrZR0_tMzBqJtKmbVy9YNU3PqLbENmLpysG6HqiNmo?raw=true"/>
+<img src="images/projects/DRF.png?raw=true"/>
 
 ---
 
