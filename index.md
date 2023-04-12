@@ -142,25 +142,6 @@ Source code : <a href="https://github.com/Mohamad-Masri/python-crypto-analyser">
 
 ---
 
-**Cryptocurrency Analysis**
-
-How do Bitcoin markets behave? What are the causes of the sudden spikes and dips in cryptocurrency values? The goal of this project is to  analyze, and visualize data on different cryptocurrencies.
-<br><br>Language used : Python<br><br>
-Source code : <a href="https://github.com/Mohamad-Masri/python-crypto-analyser">https://github.com/Mohamad-Masri/python-crypto-analyser</a>
-
-<img src="images/projects/crypto.png?raw=true"/>
-
----
-**Cryptocurrency Analysis**
-
-How do Bitcoin markets behave? What are the causes of the sudden spikes and dips in cryptocurrency values? The goal of this project is to  analyze, and visualize data on different cryptocurrencies.
-<br><br>Language used : Python<br><br>
-Source code : <a href="https://github.com/Mohamad-Masri/python-crypto-analyser">https://github.com/Mohamad-Masri/python-crypto-analyser</a>
-
-<img src="images/projects/crypto.png?raw=true"/>
-
----
-
 **Covid-19 Tracker**
 
 GUI application to track the COVID-19 cases.
